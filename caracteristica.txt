@@ -1,0 +1,1 @@
+la caractiristica se creo utilizando el comando: echo. > NombreArchivo.txt 
